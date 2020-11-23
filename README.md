@@ -1,5 +1,5 @@
 ### S.O.P.T 21기 1~8차 세미나 과제를 정리하였습니다.
-## 세부 내용은 https://www.notion.so/IT-SOPT-21-a3beb331bc0f46f4ae5244bc963616dd 을 확인해주세요.
+#### 세부 내용은 https://www.notion.so/IT-SOPT-21-a3beb331bc0f46f4ae5244bc963616dd 을 확인해주세요.
 - 1주차 Javascript, Http, Json
 - 2주차 Node.js 개요, 개발환경 구축, 기본 내장 모듈
 - 3주차 Express, Socket io
